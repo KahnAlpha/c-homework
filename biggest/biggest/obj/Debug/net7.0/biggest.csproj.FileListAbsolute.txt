@@ -1,0 +1,15 @@
+C:\Users\Lenovov\source\repos\biggest\biggest\bin\Debug\net7.0\biggest.exe
+C:\Users\Lenovov\source\repos\biggest\biggest\bin\Debug\net7.0\biggest.deps.json
+C:\Users\Lenovov\source\repos\biggest\biggest\bin\Debug\net7.0\biggest.runtimeconfig.json
+C:\Users\Lenovov\source\repos\biggest\biggest\bin\Debug\net7.0\biggest.dll
+C:\Users\Lenovov\source\repos\biggest\biggest\bin\Debug\net7.0\biggest.pdb
+C:\Users\Lenovov\source\repos\biggest\biggest\obj\Debug\net7.0\biggest.csproj.AssemblyReference.cache
+C:\Users\Lenovov\source\repos\biggest\biggest\obj\Debug\net7.0\biggest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovov\source\repos\biggest\biggest\obj\Debug\net7.0\biggest.AssemblyInfoInputs.cache
+C:\Users\Lenovov\source\repos\biggest\biggest\obj\Debug\net7.0\biggest.AssemblyInfo.cs
+C:\Users\Lenovov\source\repos\biggest\biggest\obj\Debug\net7.0\biggest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovov\source\repos\biggest\biggest\obj\Debug\net7.0\biggest.dll
+C:\Users\Lenovov\source\repos\biggest\biggest\obj\Debug\net7.0\refint\biggest.dll
+C:\Users\Lenovov\source\repos\biggest\biggest\obj\Debug\net7.0\biggest.pdb
+C:\Users\Lenovov\source\repos\biggest\biggest\obj\Debug\net7.0\biggest.genruntimeconfig.cache
+C:\Users\Lenovov\source\repos\biggest\biggest\obj\Debug\net7.0\ref\biggest.dll

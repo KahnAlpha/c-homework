@@ -1,0 +1,15 @@
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\bin\Debug\net7.0\PositiveNegative.exe
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\bin\Debug\net7.0\PositiveNegative.deps.json
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\bin\Debug\net7.0\PositiveNegative.runtimeconfig.json
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\bin\Debug\net7.0\PositiveNegative.dll
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\bin\Debug\net7.0\PositiveNegative.pdb
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\obj\Debug\net7.0\PositiveNegative.csproj.AssemblyReference.cache
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\obj\Debug\net7.0\PositiveNegative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\obj\Debug\net7.0\PositiveNegative.AssemblyInfoInputs.cache
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\obj\Debug\net7.0\PositiveNegative.AssemblyInfo.cs
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\obj\Debug\net7.0\PositiveNegative.csproj.CoreCompileInputs.cache
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\obj\Debug\net7.0\PositiveNegative.dll
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\obj\Debug\net7.0\refint\PositiveNegative.dll
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\obj\Debug\net7.0\PositiveNegative.pdb
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\obj\Debug\net7.0\PositiveNegative.genruntimeconfig.cache
+C:\Users\Lenovov\source\repos\PositiveNegative\PositiveNegative\obj\Debug\net7.0\ref\PositiveNegative.dll
