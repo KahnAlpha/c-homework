@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovov\\source\\repos\\Task1 Exam\\Task1 Exam\\Task1 Exam.csproj": {}
+    "C:\\Users\\Lenovov\\Desktop\\C# Git\\ExamResults\\Task1 Exam\\Task1 Exam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovov\\source\\repos\\Task1 Exam\\Task1 Exam\\Task1 Exam.csproj": {
+    "C:\\Users\\Lenovov\\Desktop\\C# Git\\ExamResults\\Task1 Exam\\Task1 Exam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovov\\source\\repos\\Task1 Exam\\Task1 Exam\\Task1 Exam.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovov\\Desktop\\C# Git\\ExamResults\\Task1 Exam\\Task1 Exam.csproj",
         "projectName": "Task1 Exam",
-        "projectPath": "C:\\Users\\Lenovov\\source\\repos\\Task1 Exam\\Task1 Exam\\Task1 Exam.csproj",
+        "projectPath": "C:\\Users\\Lenovov\\Desktop\\C# Git\\ExamResults\\Task1 Exam\\Task1 Exam.csproj",
         "packagesPath": "C:\\Users\\Lenovov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovov\\source\\repos\\Task1 Exam\\Task1 Exam\\obj\\",
+        "outputPath": "C:\\Users\\Lenovov\\Desktop\\C# Git\\ExamResults\\Task1 Exam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

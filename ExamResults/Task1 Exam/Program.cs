@@ -1,7 +1,7 @@
 ﻿using System.Text.Json.Serialization;
 
 int results=int.Parse(Console.ReadLine());
-if (results < 100) 
+if (results <= 100) 
 {
    
     if (results >= 91)
